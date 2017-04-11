@@ -1,0 +1,22 @@
+{
+  "name": "firstlaunchnode",
+  "version": "0.1.1",
+  "description": "initialisation to nodejs",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "node serveur.js"
+  },
+  "dependencies":{
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-Christian-petetin/firstLaunchNode.git"
+  },
+  "author": "jesuScript",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-Christian-petetin/firstLaunchNode/issues"
+  },
+  "homepage": "https://github.com/Jean-Christian-petetin/firstLaunchNode#readme"
+}
